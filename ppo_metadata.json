@@ -1,0 +1,6 @@
+{
+  "episodes": 500,
+  "max_proc": 10,
+  "total_timesteps": 500000,
+  "timesteps_per_episode": 1000
+}
