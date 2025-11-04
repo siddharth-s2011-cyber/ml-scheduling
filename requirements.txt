@@ -4,3 +4,5 @@ matplotlib>=3.7.0
 numpy>=1.24.0
 stable-baselines3>=2.0.0
 gym>=0.26.0
+shimmy>=2.0.0
+torch>=2.0.0
